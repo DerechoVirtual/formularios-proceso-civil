@@ -1,0 +1,29 @@
+{
+  "name": "formularios-proceso-civil",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Proceso civil: demandas, contestaciones, audiencia previa y vista · España (186 formularios). Para el núcleo del pleito civil: demandas y contestaciones en el juicio ordinario y el verbal, reconvención, excepciones procesales, declinatoria, audiencia previa, vista y conclusiones. La prueba y los escritos de trámite tienen sus propios plugins. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-proceso-civil",
+      "source": "./",
+      "description": "Proceso civil: demandas, contestaciones, audiencia previa y vista · España (186 formularios). Para el núcleo del pleito civil: demandas y contestaciones en el juicio ordinario y el verbal, reconvención, excepciones procesales, declinatoria, audiencia previa, vista y conclusiones. La prueba y los escritos de trámite tienen sus propios plugins. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "civil",
+        "escritos-procesales"
+      ]
+    }
+  ]
+}

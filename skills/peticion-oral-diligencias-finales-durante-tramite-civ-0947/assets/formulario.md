@@ -1,0 +1,9 @@
+Con la venia. En orden a la prueba de [HECHO ESENCIAL; EJEMPLO: las causas de las filtraciones que provocan los daños discutidos en este proceso], esta parte propuso en tiempo y forma prueba pericial a practicar por [PERITO; EJEMPLO: un arquitecto], que fue admitida por S.S.ª, pero que finalmente no ha podido practicarse correctamente, tal como se ha podido comprobar en este acto de juicio, por cuanto [CAUSA AJENA A LA PARTE; EJEMPLO: el arquitecto no pudo acceder a las viviendas C y D del piso segundo, al no estar presentes los vecinos de tales inmuebles].
+
+Tal prueba es absolutamente relevante por cuanto se refiere al hecho esencial discutido en este proceso, como es [HECHO ESENCIAL], y fue propuesta diligentemente por esta parte en tiempo y forma, no practicándose por causas ajenas a la voluntad de esta parte.
+
+Por este motivo, de entender S.S.ª que el hecho no ha quedado plenamente acreditado por el resto de la prueba practicada, solicitamos que se practique como diligencia final la prueba pericial en los mismos términos interesados en nuestra proposición de prueba, al darse los requisitos establecidos en el art. 435 de la LEC, por ser una prueba esencial, no practicada correctamente por causas ajenas a esta parte, y ser previsible que tal prueba puede practicarse si se cita correctamente a [PERSONAS QUE DEBEN FACILITAR LA PRÁCTICA], lo cual permitirá adquirir plena certeza sobre el hecho controvertido.
+
+[CONTINUAR CON LAS CONCLUSIONES FÁCTICAS Y LOS ARGUMENTOS JURÍDICOS Y, AL FINALIZAR, REPRODUCIR LA SOLICITUD, INTERESANDO QUE CONSTE EN EL ACTA.]
+
+Por lo expuesto, solicitamos que se dicte sentencia estimatoria de nuestra demanda, de acuerdo con el suplico allí expuesto, e interesamos que conste expresamente en el acta la solicitud de esta parte en cuanto a la práctica de la pericial de [PERITO: NOMBRE Y PROFESIÓN] como diligencia final.

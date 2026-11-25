@@ -1,0 +1,7 @@
+Con la venia, para ratificarnos en la excepción planteada por ser procedimiento inadecuado por razón de la cuantía, según expusimos en nuestro escrito de contestación al que nos remitimos.
+
+Con la venia, para oponernos a la excepción de inadecuación de procedimiento por razón de la cuantía alegada de contrario, puesto que el vehículo objeto de la compraventa tiene un valor de cuatro mil euros, ajustándose el criterio de valoración a lo dispuesto en el art. 251.2.ª de la LEC, conforme justificamos con nuestra demanda según la valoración pericial del perito Sr. [NOMBRE Y APELLIDOS] que acompañamos como documento número 3 de dicho escrito.
+
+A la vista de los documentos e informes obrantes en autos, acuerdo estimar la inadecuación de procedimiento por razón de la cuantía alegada por el demandado, habida cuenta que el precio fijado por las partes en el contrato de compraventa fue el de dos mil quinientos euros, el cual puede ser considerado como precio de mercado a que se refiere el art. 251.2.ª de la LEC, por lo que el procedimiento adecuado es el juicio verbal. En consecuencia, doy por finalizada la audiencia y convoco a las partes a juicio verbal que tendrá lugar el próximo día [FECHA] a las [Nº] horas, quedando citadas las partes en este acto y advirtiéndoles expresamente del contenido del art. 440 de la LEC.
+
+========================================================================
